@@ -1,6 +1,9 @@
 trident-kafka-without-mongodb-state-impl
 ========================================
 
+This is example of strom trident topology. i'm reading from kafka source and doing processing in trident storm.
+
+
 trident-kafka-without-mongodb-state-impl
 
 
